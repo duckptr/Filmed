@@ -46,16 +46,25 @@ npm start
 
 ---
 
-📦 src
- ┣ 📂 api
- ┃ ┗ 📜 movie.js
+## 📁 프로젝트 구조
+
+```
+📂 public
+ ┗ 📜 index.html
+
+📂 src
  ┣ 📂 components
- ┃ ┣ 📜 Banner.js
- ┃ ┣ 📜 MovieModal.js
- ┃ ┗ 📜 Row.js
+ ┃ ┗ 📜 MovieModal.js
+ ┣ 📂 pages
+ ┃ ┗ 📜 MainPage.js
  ┣ 📜 App.js
- ┣ 📜 index.js
- ┗ 📜 index.css
+ ┗ 📜 index.js
+
+📜 .gitignore
+📜 package.json
+📜 README.md
+```
+
 
 ---
 
